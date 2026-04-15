@@ -221,11 +221,11 @@ export const Dashboard = () => {
             </button>
           )}
           <button 
-            onClick={() => window.location.href = 'https://github.com'}
+            onClick={() => window.location.href = 'https://github.com/MKOSSJ/protectroutes-'}
             className="btn btn-secondary"
             style={{ flex: 1 }}
           >
-            📚 Documentación
+            📚 Repositorio GitHub
           </button>
         </div>
       </div>
